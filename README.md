@@ -3,9 +3,7 @@
 This repository contains all the media assets used in our SNES emulator project, including images, logos, and other graphical elements.
 
 ## 📁 **Contents**  
-- `logo/` — Contains the project logo, including source files and variations.  
-- `images/` — Screenshots, promotional images, and assets for documentation.  
-- `icons/` — Small icons and UI elements.  
+- `logo/` — Contains the project logo.  
 
 ## 🛠️ **Usage Guidelines**  
 - **Logo Usage:**  
