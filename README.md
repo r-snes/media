@@ -10,6 +10,9 @@ This repository contains all the media assets used in our SNES emulator project,
   The project logo includes elements of the official Rust logo, © The Rust Project Developers, used under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
   > *"The original Rust logo has been modified for use in this project."*  
 
+- **Rust Artwork Repository:**  
+  The official Rust logo and related assets can be found in the [rust-artwork repository](https://github.com/rust-lang/rust-artwork).
+
 - **Attribution:**  
   When using the logo or other media in external communications, please provide appropriate credit as outlined in our licensing terms.  
 
